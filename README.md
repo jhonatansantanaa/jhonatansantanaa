@@ -1,6 +1,3 @@
-![github-header-image](https://user-images.githubusercontent.com/113706844/204149250-eb7890a6-edac-43ba-930f-aec07717e24b.png)
-
-
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jhônatan Reis
