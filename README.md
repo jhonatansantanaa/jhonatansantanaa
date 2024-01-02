@@ -1,6 +1,6 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jhônatan Reis
-![Aguarde um instante]([URL_da_Imagem](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png))
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Carregando...">
 =====================================================================================================================================
 
 Mobile Developer Flutter 💙
