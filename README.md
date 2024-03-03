@@ -8,7 +8,7 @@ Mobile Developer Flutter 💙
 -------------------------
 
 * 🌍  I'm based in Brazil
-* ✉️  You can contact me at [Devjhonatanreis@gmail.com](mailto:Devjhonatanreis@gmail.com )
+* ✉️  You can contact me at [codejhonatansantana@gmail.com](mailto:Devjhonatanreis@gmail.com )
 
 
 ## 🌐 Socials:
