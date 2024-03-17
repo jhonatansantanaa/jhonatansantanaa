@@ -1,5 +1,5 @@
 
-# Hi ! My name is Jhônatan Reis and I'am Software Engineer
+# Hi ! My name is Jhonatan Reis and I'm a software engineer
 
 Mobile Developer Flutter 💙
 -------------------------
