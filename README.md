@@ -14,7 +14,8 @@ Feel free to explore my projects and contact me if you have any questions, sugge
 * ✉️  You can contact me at jhonatansantanacontact@gmail.com
 
 ## 🌐 Socials:
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatansantana/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](jhonatansantanacontact@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatansantana/)
 
 
 # 💻Skills:
