@@ -29,7 +29,6 @@ Feel free to explore my projects and contact me if you have any questions, sugge
   </a>
 </p>
 
-
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=reisdeveloper&theme=whatsapp-dark2&card_width=496" alt="GitHub Streak" /></a>
 
 
