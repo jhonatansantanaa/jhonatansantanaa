@@ -11,7 +11,7 @@
 -------------------------
 
 * 🌍  I'm based in Brazil
-* ✉️  You can contact me at  [![gmail](https://img.shields.io/badge/gmail-%2300.svg?logo=gmail&logoColor=red)](jhonatansantanacontact@gmail.com)
+* ✉️  You can contact me at  [![gmail](https://img.shields.io/badge/gmail-%FFFFFFFF.svg?logo=Gmail&logoColor=red)](jhonatansantanacontact@gmail.com)
 * LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatansantana/)
 
 
