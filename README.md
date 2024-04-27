@@ -1,9 +1,6 @@
 
 # Hi ! My name is Jhonatan Reis 
 
-![gifsimpsions](https://github.com/reisdeveloper/reisdeveloper/assets/113706844/33876055-199a-4e3a-b083-148572c85b04)
-
-
 # I'm a Software Engineer Mobile  
 ![androidimagebackground](https://github.com/reisdeveloper/reisdeveloper/assets/113706844/1e47519f-2796-4124-b8d2-5ad5cefd2dd0)
 
@@ -26,7 +23,7 @@
   </a>
 </p>
 
-https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge
+
 
 
 
