@@ -11,13 +11,13 @@
 -------------------------
 
 * 🌍  I'm based in Brazil
-* ✉️  You can contact me at [reisdeveloper10@gmail.com](mailto:Devjhonatanreis@gmail.com )
+* ✉️  You can contact me at [![Gmail](jhonatansantanacontact@gmail.com)
+* LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatansantana/)
 
 
---- or -------
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jhonatansantana) 
+
 
 # 💻Skills:
 <p align="center">
