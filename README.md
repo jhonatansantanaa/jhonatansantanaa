@@ -17,7 +17,7 @@ Mobile Developer
 # 💻Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,c++,c#,java,dart,flutter,firebase,html,css,javascript," />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,kubernetes,docker,aws,c,cpp,cs,dotnet,java,dart,flutter,kotlin,html,css,js,sqlite,mysql," />
   </a>
 </p>
 
