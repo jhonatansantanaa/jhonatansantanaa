@@ -21,13 +21,10 @@
   <a href="https://www.linkedin.com/in/jhonatansantana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/jhonatansantanaa/jhonatansantanaa/assets/113706844/1cdfcf16-9760-435b-9127-5938fd93fa2f" style="float:right;">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://github.com/jhonatansantanaa/jhonatansantanaa/android.png" style="float:right;">
+<!--      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  -->
   </a>
 </div>
-
-   
-
 
  <hr/>
  
@@ -45,17 +42,13 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<!--   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
-    
  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jhonatansantanaa&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jhonatansantanaa/github-readme-stats#gh-dark-mode-only)
-  <br/>
-  
- <!--   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />  -->
+<br/>
+    
 </div>
 
 <br/><br/>
 
 <hr/>
-
 <br/>
 
