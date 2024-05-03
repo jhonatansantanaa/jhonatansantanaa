@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/jhonatansantana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/jhonatansantanaa/jhonatansantanaa/android.png" style="float:right;">
+  <a href="https://github.com/jhonatansantanaa/jhonatansantanaa/android.png/" style="float:right;">
 <!--      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  -->
   </a>
 </div>
@@ -42,7 +42,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+    
  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jhonatansantanaa&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jhonatansantanaa/github-readme-stats#gh-dark-mode-only)
+ 
 <br/>
     
 </div>
