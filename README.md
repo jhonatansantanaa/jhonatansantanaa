@@ -4,6 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jhonatan+Santana!;" />
 </h1>
 
+ <div align="right"> 
+       <img src="https://github.com/jhonatansantanaa/jhonatansantanaa/blob/main/android.png"  width="300" height="300"/>
+   </div>
+
 <h3 align="center">Software Engineer Brazillian</h3>
 
 <br/>
@@ -26,9 +30,6 @@
 <!--      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  -->
   </a>
 </div>
-  <div align="right"> 
-       <img src="https://github.com/jhonatansantanaa/jhonatansantanaa/blob/main/android.png"  width="300" height="300"/>
-   </div>
 
  <hr/>
  
