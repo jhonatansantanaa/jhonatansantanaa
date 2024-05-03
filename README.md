@@ -26,9 +26,9 @@
   
  
    <div align="right"> 
+       <img src="https://github.com/jhonatansantanaa/jhonatansantanaa/blob/main/android.png"  width="200" height="200"/>
    </div>
-  <img src="https://github.com/jhonatansantanaa/jhonatansantanaa/blob/main/android.png"  width="200" height="200"/>
-
+  
 <!--      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  -->
   </a>
 </div>
