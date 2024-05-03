@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.jhonatansantanaa" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jhonatan+Santana!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jhonatan+Santana!;" />
 </h1>
 
 <h3 align="center">Software Engineer Brazillian</h3>
@@ -25,9 +25,8 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-<div align="right">
    <a href="https://github.com/jhonatansantanaa/jhonatansantanaa/assets/113706844/1cdfcf16-9760-435b-9127-5938fd93fa2f" />
-</div>
+
 
  <hr/>
  
