@@ -6,7 +6,7 @@
 
  <img align="right" src="https://github.com/jhonatansantanaa/jhonatansantanaa/blob/main/android.png"  width="200" height="200"/>
 
-<h3 align="left">Software Engineer Brazillian</h3>
+<h3 align="left">Software Engineer</h3>
 
 <h4 align="left">🌱 I’m currently learning Java, Kotlin, Flutter, AWS, System Design, Design Patterns, MVVM, MySQL</h4>
 
