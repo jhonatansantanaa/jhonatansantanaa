@@ -11,7 +11,6 @@
 <h4 align="left">🌱 I’m currently learning Java, Kotlin, Flutter, AWS, System Design, Design Patterns, MVVM, MySQL</h4>
 
 <h4 align="left">💬 Ask me about:</h4>
-<p>Teste</p>
 
 ### 🌐| Contact me:
 <p align="left">
