@@ -1,5 +1,5 @@
 
-![Screenshot from 2024-06-07 00-44-31](https://github.com/jhonatansantanaa/jhonatansantanaa/assets/113706844/e0dcb54b-97c4-4f68-97a1-4914592ba878)
+![Screenshot from 2024-06-07 00-50-29](https://github.com/jhonatansantanaa/jhonatansantanaa/assets/113706844/b6a91315-cc6e-44af-9cef-a7d6dcf43681)
 
 <h1 align="center">Hi there! 👋</h1>
 
