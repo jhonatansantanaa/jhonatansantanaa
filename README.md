@@ -1,5 +1,6 @@
 
-![Screenshot from 2024-06-07 01-40-36](https://github.com/jhonatansantanaa/jhonatansantanaa/assets/113706844/3b8f26b7-9a27-4af2-a519-4bfb77f02b9f)
+![Screenshot from 2024-06-07 00-44-31](https://github.com/jhonatansantanaa/jhonatansantanaa/assets/113706844/e0dcb54b-97c4-4f68-97a1-4914592ba878)
+
 <h1 align="center">Hi there! 👋</h1>
 
 # About me
