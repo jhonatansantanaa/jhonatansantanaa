@@ -1,4 +1,6 @@
 
+<h1 align="center">Hi there! 👋</h1>
+
 I don't really know how you landed here, but let me introduce myself ;)
 
 # About me
