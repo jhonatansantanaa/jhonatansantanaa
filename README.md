@@ -14,11 +14,4 @@
 * **Education:** Software Engineering - UNIFAVIP, Wyden.
 * **Stacks:** DART, FLUTTER, KOTLIN, JAVA, C/C++, ANDROID, MYSQL, MVVM, SCRUM, KANBAN
 * **I Learning:**  Jetpack Compose, Ktor, ROOM, DAO, KMP, Kotlin 2.0, Design System, Design Patterns, Project Architecture
-* **Books i'm reading**:
-  *  Kotlin in Action,
-  *  Android Apprentice,
-  *  A Philosophy of Software Design,
-  *  Introduction to Algorithms,
-  *  Algorithms
-
 
