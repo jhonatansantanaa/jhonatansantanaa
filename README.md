@@ -19,6 +19,5 @@ Always looking for new challenges, I am ready to contribute to ambitious and inn
 * **Age:** 21y
 * **I Living in:** São Paulo, Brazil.
 * **Education:** Software Engineering - UNIFAVIP, Wyden.
-* **Stacks:** PYTHON, KOTLIN, JAVA, C/C++, ANDROID, MYSQL, MVVM, SCRUM, KANBAN
-* **I Learning:**  Jetpack Compose, Ktor, ROOM, DAO, KMP, Kotlin 2.0, Design System, Design Patterns, Project Architecture
+
 
